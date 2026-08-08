@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-24.xhtml">
+		<ignore code="y-034">
+			<line>102</line>
+			<reason>Period is embedded in secret code.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

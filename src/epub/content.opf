@@ -67,6 +67,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Salvador Dalí</dc:contributor>
 		<meta property="file-as" refines="#artist">Dalí, Salvador</meta>
+		<meta property="schema:alternateName" refines="#artist">Salvador Domingo Felipe Jacinto Dalí i Domènech, Marquess of Dalí de Púbol</meta>
 		<link href="https://en.wikipedia.org/wiki/Salvador_Dalí" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79021554.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>

@@ -39,6 +39,7 @@
 		<dc:subject id="subject-3">Explosives -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="schema:genre">Satire</meta>
 		<meta property="schema:genre">Science Fiction</meta>
 		<dc:abstract>A man invents a terrible new explosive and becomes of interest to the authorities.</dc:abstract>
 		<dc:description>

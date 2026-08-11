@@ -8,3 +8,8 @@
 .telegram{
 	font-variant: all-small-caps;
 }
+
+#chapter-20 > blockquote > p{
+	text-align: center;
+	text-indent: 0;
+}
